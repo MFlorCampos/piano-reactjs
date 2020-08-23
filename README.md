@@ -1,1 +1,1 @@
-Proyecyo piano en react.
+Proyecto piano en react.
