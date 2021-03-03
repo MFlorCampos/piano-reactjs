@@ -55,7 +55,7 @@ function App() {
       <div className="titulo">
         <h1>Piano con React</h1>
         <h2>
-          Hecho con <span>❤️</span> por Flor
+          Hecho con <span>amor</span> por Flor
         </h2>
         <div class="esta-sonando">{estaSonando && `suena ${estaSonando}`}</div>
       </div>
